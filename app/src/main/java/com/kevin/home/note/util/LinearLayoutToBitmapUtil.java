@@ -1,4 +1,4 @@
-package com.kevin.home.note.util;
+﻿package com.kevin.home.note.util;
 
 import android.content.Context;
 import android.content.Intent;
@@ -114,7 +114,7 @@ public class LinearLayoutToBitmapUtil {
                 e.printStackTrace();
             }
         }
-        //通知相册更新
+        //通知相册更新 这里test一下
         MediaStore.Images.Media.insertImage(context.getContentResolver(),
                 bmp, fileName, null);
         Intent intent = new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE);
