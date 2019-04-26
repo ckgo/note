@@ -7,3 +7,6 @@
 
 3、google原生语音识别项目：https://github.com/zagum/SpeechRecognitionView
    可得到识别结果和录音
+
+4、xposed学习：
+https://github.com/twangithub/XposedBase
