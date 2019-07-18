@@ -10,3 +10,5 @@
 
 4、xposed学习：
 https://github.com/twangithub/XposedBase
+
+5、Fragment嵌套Viewpager的时候，Viewpager里面的Fragment空白，这时候看看Adapter的FragmentManager是否改为了getChildFragmentManager
