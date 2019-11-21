@@ -14,3 +14,7 @@ https://github.com/twangithub/XposedBase
 5、Fragment嵌套Viewpager的时候，Viewpager里面的Fragment空白，这时候看看Adapter的FragmentManager是否改为了getChildFragmentManager
 
 6、https://github.com/Trinea/android-open-project 学习
+
+7、屏幕分辨率适配终极方案参考：https://github.com/fly803/BaseProject  里面包含模板项目搭建，快速启动一个项目。
+
+8、
