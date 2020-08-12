@@ -26,3 +26,6 @@ https://github.com/twangithub/XposedBase
 11.头部 viewpager 一起滚动 https://github.com/WelliJohn/StickScrollView
 
 12、banner轮播 https://github.com/zhpanvip/BannerViewPager
+
+13、一款集合多个Android开源库的使用工具，可以展示各个开源库的特性。并简单了解其使用方法。包含[★1.1仿微信功能-字体大小★1.2仿微信功能-存储空间★1.3仿微信功能-多语言★1.4仿微信功能-地区选择★2.BottomNavigationView★3.RecyclerView4.DialogFragment★5.toolbar★6.RxToast★7.转盘小游戏★8.跑马灯/水波纹/标签★9.侧滑菜单/悬浮按钮★10.ViewPage指示器★11.ViewPage★12-13.OpenGl★14.常用Dialog★15.进度条★16.蛛网等级及颜色选取★17.Banner轮播图★18.通知NotificationCompat★19.选择器Picker★
+https://github.com/DayorNight/BLCS
