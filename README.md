@@ -24,3 +24,5 @@ https://github.com/twangithub/XposedBase
 10、输入框@功能https://github.com/lsgmkk/CopyWeChatDemo
 
 11.头部 viewpager 一起滚动 https://github.com/WelliJohn/StickScrollView
+
+12、banner轮播 https://github.com/zhpanvip/BannerViewPager
